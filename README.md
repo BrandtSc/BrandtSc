@@ -1,7 +1,7 @@
 
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="" alt="Header banner" width="100%" />
+  <img src="star-header.svg" alt="Header banner" width="100%" />
 </p>
 
 <h1 align="center">★ Hi! I'm Brandt ★</h1>
@@ -45,5 +45,5 @@ Tech used: React, TypeScript, Node.js
 
 <!-- FOOTER LINE -->
 <p align="center">
-  <img src="" alt="Footer banner" width="100%" />
+  <img src="star-header.svg" alt="Footer banner" width="100%" />
 </p>
