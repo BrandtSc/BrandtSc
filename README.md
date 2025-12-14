@@ -1,54 +1,49 @@
 
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="" width="100%" />
+  <img src="" alt="Header banner" width="100%" />
 </p>
 
-<h1 align="center"> Hi! I'm Brandt
-<p align="center"> CS Student • Developer • Creative</p>
+<h1 align="center">★ Hi! I'm Brandt ★</h1>
+<p align="center">CS Student • Developer • Creative</p>
 
 ---
 
-## About Me
-Hi!  
-I'm  
+## ☄️ About Me
+Hi there! Welcome to my GitHub profile. I’m passionate about exploring tech, learning new things, and turning my ideas into reality.
 
- ** Tech Interests:** asdf  
- ** Current Interests:** asdf  
-
- ---
-
- ## Featured Projects
- Here are:
-
- ###   **___**
- -
- Tech used:  
-
- ---
-
- ## Plans & Goals
-
-- 
+- **Tech Interests:** Artificial Intelligence, Full-Stack Development, and Open Source Contributions  
+- **Current Interests:** Building personal projects, mastering Python, and diving into web development.
 
 ---
 
-## Connect With Me
-[LinkedIn]() • [Portfolio] • [Email]()
+## 💫 Featured Projects
+Here are some of my favorite projects that I’ve worked on or am currently building:
+
+### **Project 1: [Gravity & Black Hole Simulator]**
+A brief one-liner describing what the project does or solves.  
+Tech used: `C++` · `OpenGL` · `MatLab` ·
+
+### **Project 2: [Cool Website Name]**
+A brief one-liner about the project.  
+Tech used: React, TypeScript, Node.js  
+
+---
+
+## 💫 Plans & Goals
+- Expand my portfolio with more creative projects.
+- Contribute to open-source communities and learn from peers. 
+- Stay updated with the latest in technology by exploring AI and web technologies.
+
+---
+
+## 💫 Connect With Me
+
+[LinkedIn](www.linkedin.com/in/brandt-schmidt)  •  [Portfolio](your-portfolio-link)  •  [Email](mailto:brandtschmidt1342@gmail.com)
 
 ---
 
 <!-- FOOTER LINE -->
 <p align="center">
-  <img src="" width="100%" />
+  <img src="" alt="Footer banner" width="100%" />
 </p>
-
-
-
-
-
-
-
-
-
-
