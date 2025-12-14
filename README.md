@@ -20,11 +20,11 @@ Hi there! Welcome to my GitHub profile. I’m passionate about exploring tech, l
 ## 💫 Featured Projects
 Here are some of my favorite projects that I’ve worked on or am currently building:
 
-### **Project 1: [Gravity & Black Hole Simulator]**
+### **[Gravity & Black Hole Simulator]**
 A brief one-liner describing what the project does or solves.  
 Tech used: `C++` · `OpenGL` · `MatLab` ·
 
-### **Project 2: [Cool Website Name]**
+### **[Cool Website Name]**
 A brief one-liner about the project.  
 Tech used: React, TypeScript, Node.js  
 
@@ -32,7 +32,7 @@ Tech used: React, TypeScript, Node.js
 
 ## 💫 Plans & Goals
 - Expand my portfolio with more creative projects.
-- Contribute to open-source communities and learn from peers. 
+- Contribute to open-source communities.
 - Stay updated with the latest in technology by exploring AI and web technologies.
 
 ---
