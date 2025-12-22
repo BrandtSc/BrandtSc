@@ -35,7 +35,7 @@ Tech used: `Python` · `Pandas` ·
 
 ## 💫 Connect With Me
 
-[LinkedIn](www.linkedin.com/in/brandt-schmidt)  •  [Portfolio](your-portfolio-link)  •  [Email](mailto:brandtschmidt1342@gmail.com)
+[LinkedIn](www.linkedin.com/in/brandt-schmidt)  •  [Website](https://brandtschmidt.me/)  •  [Email](mailto:brandtschmidt1342@gmail.com)
 
 ---
 
