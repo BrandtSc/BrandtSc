@@ -20,13 +20,9 @@ Hi there! Welcome to my GitHub profile. I’m passionate about exploring tech, l
 ## 💫 Featured Projects
 Here are some of my favorite projects that I’ve worked on or am currently building:
 
-### **[Gravity & Black Hole Simulator]**
-A brief one-liner describing what the project does or solves.  
-Tech used: `C++` · `OpenGL` · `MatLab` ·
-
-### **[Cool Website Name]**
-A brief one-liner about the project.  
-Tech used: React, TypeScript, Node.js  
+### **[Rocket Launch Data Analysis]**
+Analyzes two rocket launch data sets.  
+Tech used: `Python` · `Pandas` · 
 
 ---
 
