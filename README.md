@@ -21,8 +21,8 @@ Hi there! Welcome to my GitHub profile. I’m passionate about exploring tech, l
 Here are some of my favorite projects that I’ve worked on or am currently building:
 
 ### **[Rocket Launch Data Analysis]**
-Analyzes two rocket launch data sets.  
-Tech used: `Python` · `Pandas` · 
+Analyzes a rocket launch data set.  
+Tech used: `Python` · `Pandas` · `Seaborn` · 
 
 ---
 
