@@ -4,13 +4,13 @@
   <img src="star-header.svg" alt="Header banner" width="100%" />
 </p>
 
-<h1 align="center">★ Hi! I'm Brandt ★</h1>
+<h1 align="center">  Hi. I'm Brandt ★</h1>
 <p align="center">CS Student • Developer • Creative</p>
 
 ---
 
 ## ☄️ About Me
-Hi there! Welcome to my GitHub profile. I’m passionate about exploring tech, learning new things, and turning my ideas into reality.
+Hi there. Welcome to my GitHub profile. I’m passionate about exploring tech, learning new things, and turning my ideas into reality.
 
 - **Tech Interests:** Artificial Intelligence, Full-Stack Development, and Open Source Contributions  
 - **Current Interests:** Building personal projects, mastering Python, and diving into web development.
