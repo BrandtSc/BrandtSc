@@ -4,12 +4,12 @@
   <img src="star-header.svg" alt="Header banner" width="100%" />
 </p>
 
-<h1 align="center">  Hi. I'm Brandt ★</h1>
+<h1 align="center">  Hi. I'm Brandt  </h1>
 <p align="center">CS Student • Developer • Creative</p>
 
 ---
 
-## ☄️ About Me
+## ★ About Me
 Hi, Welcome to my GitHub profile. I’m passionate about building projects that combine software with real-world systems, especially in aerospace and autonomous technology.
 
 - **Tech Interests:** Aerospace systems, simulation, autonomous vehicles, and AI
@@ -17,7 +17,7 @@ Hi, Welcome to my GitHub profile. I’m passionate about building projects that 
 
 ---
 
-## 💫 Featured Projects
+## ☄️ Featured Projects
 Here are some of my favorite projects that I’ve completed or am currently building:
 
 ### **[Rocket-Launch Data Analysis]**
@@ -29,7 +29,7 @@ Tech used: `C++` · `OpenGL` · `GLM`
 
 ---
 
-## 💫 Plans & Goals
+## 🔭 Plans & Goals
 - Expand my portfolio with more real-world projects.
 - Contribute to open-source communities.
 - Stay updated with the latest in technology by exploring AI and aerospace systems.
