@@ -10,26 +10,29 @@
 ---
 
 ## ☄️ About Me
-Hi there. Welcome to my GitHub profile. I’m passionate about exploring tech, learning new things, and turning my ideas into reality.
+Hi, Welcome to my GitHub profile. I’m passionate about building projects that combine software with real-world systems, especially in aerospace and autonomous technology.
 
-- **Tech Interests:** Artificial Intelligence, Full-Stack Development, and Open Source Contributions  
-- **Current Interests:** Building personal projects, mastering Python, and diving into web development.
+- **Tech Interests:** Aerospace systems, simulation, autonomous vehicles, and AI
+- **Current Interests:** C++ projects, physics-based simulations, space-related software projects
 
 ---
 
 ## 💫 Featured Projects
-Here are some of my favorite projects that I’ve worked on or am currently building:
+Here are some of my favorite projects that I’ve completed or am currently building:
 
-### **[Rocket Launch Data Analysis]**
+### **[Rocket-Launch Data Analysis]**
 Analyzes a rocket launch data set.  
-Tech used: `Python` · `Pandas` · `Seaborn` · 
+Tech used: `Python` · `Pandas` · `Seaborn` · `MatPlotLib`
+### **[Orbital Motion Simulator]**
+Simulates orbital motion on bodies in space.
+Tech used: `C++` · `OpenGL` · `GLM`
 
 ---
 
 ## 💫 Plans & Goals
-- Expand my portfolio with more creative projects.
+- Expand my portfolio with more real-world projects.
 - Contribute to open-source communities.
-- Stay updated with the latest in technology by exploring AI and web technologies.
+- Stay updated with the latest in technology by exploring AI and aerospace systems.
 
 ---
 
