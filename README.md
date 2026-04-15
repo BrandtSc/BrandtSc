@@ -24,15 +24,15 @@ Here are some of my favorite projects that I’ve completed or am currently buil
 Analyzes a rocket launch data set.  
 Tech used: `Python` · `Pandas` · `Seaborn` · `MatPlotLib`
 ### **[Orbital Motion Simulator]**
-Simulates orbital motion on bodies in space.
+Simulates orbital motion on bodies in space.  
 Tech used: `C++` · `OpenGL` · `GLM`
 
 ---
 
 ## 🔭 Plans & Goals
 - Expand my portfolio with more real-world projects.
-- Contribute to open-source communities.
-- Stay updated with the latest in technology by exploring AI and aerospace systems.
+- Contribute to open-source communities.  
+- Stay updated with the latest in technology by exploring AI and aerospace systems.  
 
 ---
 
