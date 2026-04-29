@@ -23,7 +23,7 @@ Here are some of my favorite projects that I’ve completed or am currently buil
 ### **[Rocket-Launch Data Analysis]**
 Analyzes a rocket launch data set.  
 Tech used: `Python` · `Pandas` · `Seaborn` · `MatPlotLib`
-### **[Orbital-Motion-Simulator]**
+### **[Orbital Motion Simulator]**
 Simulates orbital motion on bodies in space.  
 Tech used: `C++` · `OpenGL` · `GLM`
 
